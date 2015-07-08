@@ -1,4 +1,6 @@
 libhandy
 ========
 
-Handy tools for C programs
+Libhandy is a convenience library for C programmers.
+
+
